@@ -73,7 +73,8 @@ Si se tiene un conjunto de datos con las siguientes columnas: **Edad**, **Ingres
 ---
 
 ## **Formato**
-1. **Herramientas sugeridas**: Excel (visualización de archivos, Ej. CSV), Python (con pandas, matplotlib, seaborn), Scala.
+1. **Herramientas sugeridas**: Excel, VScode (visualización de archivos, Ej. CSV), Python (con pandas, matplotlib, seaborn), Scala.
+2. **Fuentes de datos: ** Kaggle (Datos de mercado, fútbol, games, etc.)
 3. **Citas**: Incluye referencias a fuentes confiables sobre EDA y estadística descriptiva.
 
 ---
