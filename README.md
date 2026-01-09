@@ -32,7 +32,7 @@ Responde a los siguientes puntos de manera clara y fundamentada. Utiliza ejemplo
    - Describe el uso de visualizaciones gráficas (ej.: histogramas, diagramas de caja, gráficos de dispersión...).
 
 5. **Caso Práctico con IA (Ejecución por Fases):**
-   - **Herramientas IA:** Investiga y utiliza herramientas como **Julius AI**, **Gemini**, o librerías de Python asistidas por IA para realizar este ejercicio.
+   - **Herramientas IA:** Investiga y utiliza herramientas como **Julius AI**, **Gemini**, para realizar este ejercicio.
    - **Dataset:** Utiliza el siguiente archivo de datos de **películas (Movies)** para tu análisis:
      - [Enlace al Dataset (Google Drive)](https://drive.google.com/file/d/1uHvGXxrcULwZM0QiKZeCpu94GGlcHhiG/view?usp=drive_link)
      - *Columnas disponibles:* `adult`, `belongs_to_collection`, `budget`, `genres`, `homepage`, `id`, `imdb_id`, `original_language`, `original_title`, `overview`, `popularity`, `poster_path`, `production_companies`, `production_countries`, `release_date`, `revenue`, `runtime`, `spoken_languages`, `status`, `tagline`, `title`, `video`, `vote_average`, `vote_count`, `keywords`, `cast`, `crew`, `ratings`.
